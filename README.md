@@ -1,31 +1,29 @@
 <h1 align="center">  
-  <img src="./assets/Hi.gif" width="40px" />
+  <img src="./assets/Hi.gif" width="40px" /><br>
   𝑯𝒆𝒍𝒍𝒐, 𝒇𝒆𝒍𝒍𝒐𝒘 &lt;𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿𝘀/&gt;!
-  <br><img src="./assets/emoji1.gif" width="40px" /> Ada Rachel here!</h1>
-<h3 align="center">I am a Full-Stack Web Development Student at Microverse.org.</h3>
+  <br>ADA RACHEL HERE!</h1>
+<h3 align="center">I am presently a Full-Stack Web Development Student.</h3>
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Web+Developer+from+Nigeria;Javascript+Online+Games+Enthusiast;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Nice+To+Meet+You;Full-Stack+Web+Development;Android+Mobile+App+Development;Technical+Writer;Book+Review+Blogger+...&center=true"></a>
 </p>
 
-<h4>My name is Rachel, an aspiring Senior Full-Stack Web Developer. I am currently enrolled in the Web Development 2022-2023 course at Microverse.org, and I am making daily Github contributions and involved in building web applications and other projects everyday. I am love exploring and learning new programming languages and I am presently invested in building online Javascript games. I love this field and I am hoping to learn much more!</h4>
-
-[![Github](https://img.shields.io/github/followers/adarachel?label=Follow&style=social)](https://github.com/adarachel)
+<h3>My name is Rachel, I am an aspiring Full-Stack Web Developer and Mobile App Developer.<br> I am currently enrolled in the Web Development 2022/2023 program at Microverse.org; I am making daily Github contributions and involved in building web applications everyday. I love this field and I am hoping to learn much more!</h3>[![Github](https://img.shields.io/github/followers/adarachel?label=Follow&style=social)](https://github.com/adarachel)
 
 <p align="center"><a href="./assets/woman.gif">
   <img src="./assets/woman.gif"  height="450" width="700"/>
 </a></p>
 
-:pushpin: Full Name: **Adaobi Rachel Oyeoka**.
-<br>:pushpin: Pronouns: **She**/ **Her** / **Hers**.
-<br>:pushpin: I earned an **Advanced Diploma** in Software Engineering in 2020. Obtained from the [Intercom Programming and Manufacturing Company A.K.A. IPMC](https://www.ipmctraining.com/) College of Technology, Accra, Ghana.
-<br>:pushpin: I’m currently learning **Full-Stack Web Development** At [Microverse](https://www.microverse.org/).
+:pushpin: <full-name/>: **Adaobi Rachel Oyeoka**.
+<br>:pushpin: <pronouns/>: **She**/ **Her** / **Hers**.
+<br>:pushpin: I earned an **Advanced Diploma** in Software Engineering in 2020. Obtained from the [Intercom Programming and Manufacturing Company](https://www.ipmctraining.com/) /IPMC College of Technology, Accra, Ghana.
+<br>:pushpin: I’m currently learning **Full-Stack Web Development** At [MICROVERSE](https://www.microverse.org/).
 <br>:pushpin: I am looking for job opportunities, please send me an email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.
-<br>:pushpin: Find my projects and contributions [here](https://github.com/adarachel?tab=repositories).
-<br>:pushpin: Hobbies: Reading and writing book reviews, learning new things & meeting new people.
+<br>:pushpin: Find my projects and contributions [HERE](https://github.com/adarachel?tab=repositories).
+<br>:pushpin: <hobbies/>: Reading and writing book reviews, learning new things & meeting new people.
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/adarachel/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -60,7 +58,7 @@
 
 ## GitHub stats 🚀:
 
-![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adarachel&theme=material-palenight&hide_border=false&area=true)
+![Ada Rachel's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adarachel&theme=material-palenight&hide_border=false&area=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adarachel&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
