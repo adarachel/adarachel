@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Nice+To+Meet+You;Full-Stack+Web+Development;Android+Mobile+App+Development;Technical+Writer;Book+Review+Blogger+...&center=true"></a>
 </p>
 
-<h3>My name is Rachel, I am an aspiring Full-Stack Web Developer and Mobile App Developer.<br> I am currently enrolled in the Web Development 2022/2023 program at Microverse.org; I am making daily Github contributions and involved in building web applications everyday. I love this field and I am hoping to learn much more!</h3>
+<h3>My name is Rachel, I am an aspiring Full-Stack Web Developer and Mobile App Developer.<br> I am currently enrolled in the Web Development 2022/2023 program at Microverse.org, making daily Github contributions and involved in building web applications everyday. I love this field and I am hoping to learn much more so that I can help make the web a better place!</h3>
 
 <p align="center"><a href="./assets/woman.gif">
   <img src="./assets/woman.gif"  height="450" width="700"/>
