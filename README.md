@@ -20,6 +20,7 @@
 <br>:pushpin: RELEVANT CREDENTIALS:
 - **Advanced Diploma** in Software Engineering in 2020. Obtained from the [IPMC College of Technology,](https://www.ipmctraining.com/) Accra, Ghana.
 - Enrolled in the **Full-Stack Web Development Program** At [MICROVERSE](https://www.microverse.org/). <br>
+
 <br>:pushpin: I am looking for collaboration and job opportunities, please send me an email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.<br>
 <br>:pushpin: Find my projects and contributions [HERE](https://github.com/adarachel?tab=repositories). <br>
 <br>:pushpin: HOBBIES: Reading and writing book reviews, learning new things & meeting new people.
