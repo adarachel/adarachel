@@ -15,12 +15,13 @@
   <img src="./assets/woman.gif"  height="450" width="700"/>
 </a></p>
 
-:pushpin: FULL NAME: **Adaobi Rachel Oyeoka**.
-<br>:pushpin: PRONOUNS: **She**/ **Her** / **Hers**.
-<br>:pushpin: I earned an **Advanced Diploma** in Software Engineering in 2020. Obtained from the [Intercom Programming and Manufacturing Company](https://www.ipmctraining.com/) /IPMC College of Technology, Accra, Ghana.
-<br>:pushpin: I’m currently learning **Full-Stack Web Development** At [MICROVERSE](https://www.microverse.org/).
-<br>:pushpin: I am looking for job opportunities, please send me an email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.
-<br>:pushpin: Find my projects and contributions [HERE](https://github.com/adarachel?tab=repositories).
+:pushpin: FULL NAME: **Adaobi Rachel Oyeoka**. <br>
+<br>:pushpin: PRONOUNS: **She**/ **Her** / **Hers**. <br>
+<br>:pushpin: RELEVANT CREDENTIALS:
+- **Advanced Diploma** in Software Engineering in 2020. Obtained from the [IPMC College of Technology,](https://www.ipmctraining.com/) Accra, Ghana.
+- Enrolled in the **Full-Stack Web Development Program** At [MICROVERSE](https://www.microverse.org/). <br>
+<br>:pushpin: I am looking for collaboration and job opportunities, please send me an email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.<br>
+<br>:pushpin: Find my projects and contributions [HERE](https://github.com/adarachel?tab=repositories). <br>
 <br>:pushpin: HOBBIES: Reading and writing book reviews, learning new things & meeting new people.
 
 <h3 align="center">CONNECT WITH ME:</h3>
