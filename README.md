@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="./assets/Hi.gif" width="40px" /><br>
+  <img src="./assets/Hi.gif" width="40px" /><img src="./assets/Hi.gif" width="40px" /><img src="./assets/Hi.gif" width="40px" /><br>
   𝑯𝒆𝒍𝒍𝒐, 𝒇𝒆𝒍𝒍𝒐𝒘 &lt;𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿𝘀/&gt;!
   <br>ADA RACHEL HERE!</h1>
 <h3 align="center">I am presently a Full-Stack Web Development Student.</h3>
