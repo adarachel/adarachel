@@ -1,12 +1,12 @@
 <h1 align="center">  
   <img src="./assets/Hi.gif" width="40px" /><img src="./assets/Hi.gif" width="40px" /><img src="./assets/Hi.gif" width="40px" /><br>
   𝑯𝒆𝒍𝒍𝒐, 𝒇𝒆𝒍𝒍𝒐𝒘 &lt;𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿𝘀/&gt;!
-  <br>ADA RACHEL HERE!</h1>
-<h3 align="center">AHOY, FELLOW SAILORS ON THE TECH HIGH SEAS</h3>
+  <br>
+<h1 align="center">AHOY, FELLOW SAILORS ON THE TECH HIGH SEAS</h1>
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=It+Is+I,+Rachel!Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines= Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <h3> I'm Rachel - a Full-Stack Web and Mobile App Developer with a knack for turning complex ideas into beautiful, functional applications.
