@@ -11,9 +11,9 @@
 
 <h3> I'm Rachel - a Full-Stack Web and Mobile App Developer with a knack for turning complex ideas into beautiful, functional applications.
 
-I'm currently enrolled in the Web Development 2022/2023 program at Microverse.org, where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. When I'm not coding, you might find me tinkering with my Raspberry Pi, experimenting with new frameworks, or daydreaming about the next big thing in tech.
+I'm currently enrolled in the Web Development 2022/2023 program at Microverse.org, where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. But when I'm not coding, you can find me exploring the great outdoors, reading a good book, or catching up on the latest sci-fi flick.
 
-My ultimate goal? To build applications that not only meet but exceed client expectations, and to make the web a more accessible and enjoyable place for everyone. So if you're looking for a developer who's enthusiastic, dedicated, and slightly obsessed with good code, let's connect!</h3>
+My ultimate goal? To build applications that not only meet but exceed client expectations! Let's connect and create something special. I'm always up for a new challenge and eager to collaborate with like-minded developers who share my passion for innovation and excellence.</h3>
 
 <p align="center"><a href="./assets/woman.gif">
   <img src="./assets/woman.gif"  height="450" width="700"/>
