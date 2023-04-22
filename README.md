@@ -6,7 +6,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines= Very+Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Very+Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <h3> I'm Rachel - a Full-Stack Web and Mobile App Developer with a knack for turning complex ideas into beautiful, functional applications.
