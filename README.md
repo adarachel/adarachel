@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Very+Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-<h3> I'm Rachel - a Full-Stack Web and Mobile App Developer with a knack for turning complex ideas into beautiful, functional applications.
+<h3> I'm Rachel - a Full-Stack Web application Developer with a knack for turning complex ideas into beautiful, functional applications.
 <br><br>
 I'm currently enrolled in the Web Development 2022/2023 program at Microverse.org, where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
 <br><br>  
