@@ -1,10 +1,15 @@
-<h3> Hi! I'm Adaobi Rachel Oyeoka (Ada Rachel) - a Junior Software Developer. I was born in Michigan, USA and I am currently based in Lagos, Nigeria. I build user-friendly, accessible web applications with a focus on simplicity and functionality. My goal is to always provide a smooth experience for users, and leave a positive impact.
+---
+
+Hi! I'm Adaobi Rachel Oyeoka (Ada Rachel) - a Junior Software Developer. I was born in Michigan, USA and I am currently based in Lagos, Nigeria.
+<br><br>
+In April 2021, I enrolled in a beginner programming course at a local technical college. This was how I discovered the world of code for the first time, and fell in love with it forever.
+<br>
+Since then, I have left a job as a hair stylist, gotten certified in HTML, CSS, JavaScript, and ReactJS, and built multiple websites and web applications for my personal use, for family, friends, and even for paying clients as a freelancer on Upwork dot com.
 <br><br>
 I'm currently enrolled in the 2022/2023 Software/Web Development program at Microverse.org, where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
 <br><br>  
-But when I'm not coding, you can find me exploring the great outdoors, reading a good book, or catching up on the latest sci-fi flick.
+When I'm not at the keyboard, you can find me reading, listening to a podcast, cooking, or all three :)
 <br><br>
-My ultimate goal? To build applications that not only meet but exceed client expectations! Let's connect and create something special. I'm always up for a new challenge and eager to collaborate with like-minded developers who share my passion for innovation and excellence.</h3>
 
 <br>:pushpin: I am looking for collaboration and job opportunities, please reach me via email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.<br>
 <br>:pushpin: Find my projects and contributions [HERE](https://github.com/adarachel?tab=repositories). <br>
