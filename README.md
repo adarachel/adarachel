@@ -9,15 +9,12 @@ Since then, I have left a job as a hair stylist, gotten certified in HTML, CSS, 
 I'm currently enrolled in the 2022/2023 ‘Full-Stack Web Development’ program at [Microverse](https://www.microverse.org/), where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
 <br><br>  
 When I'm not at the keyboard, you can find me reading a good book, listening to a podcast, cooking, or all three :)
-<br><br>
-<br>:pushpin: I am looking for collaboration and job opportunities, please reach me via email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.
 
+<br>:pushpin: I am actively seeking my next software development position. I am open to remote roles and also open to relocation. Please reach me via email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.
 <br><br>
-
 :pushpin: Please visit my portfolio to find my projects: [adarachel.com](https://github.com/adarachel?tab=repositories). 
 
 <br><br>
-
 <h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/adarachel/" target="blank"><img align="center"
