@@ -1,7 +1,5 @@
 Hi! 
-
 <br><br>
-
 I'm Adaobi Rachel Oyeoka (Ada Rachel)— a Junior Software Developer. I was born in Michigan, USA and I am currently based in Lagos, Nigeria.
 
 <br><br>
