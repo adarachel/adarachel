@@ -1,17 +1,34 @@
-Hi! I'm Adaobi Rachel Oyeoka (Ada Rachel) - a Junior Software Developer. I was born in Michigan, USA and I am currently based in Lagos, Nigeria.
-<br><br>
-In April 2021, I enrolled in a beginner programming course at a local technical college. This was how I discovered the world of code for the first time, and fell in love with it forever.
-<br>
-Since then, I have left a job as a hair stylist, gotten certified in HTML, CSS, JavaScript, and ReactJS, and built multiple websites and web applications for my personal use, for family, friends, and even for paying clients as a freelancer on Upwork dot com.
-<br><br>
-I'm currently enrolled in the 2022/2023 Software/Web Development program at Microverse.org, where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
-<br><br>  
-When I'm not at the keyboard, you can find me reading, listening to a podcast, cooking, or all three :)
+Hi! 
+
 <br><br>
 
-<br>:pushpin: I am looking for collaboration and job opportunities, please reach me via email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.<br>
-<br>:pushpin: Find my projects and contributions [HERE](https://github.com/adarachel?tab=repositories). <br>
-<br>:pushpin: HOBBIES: Reading and writing book reviews, learning new things & meeting new people.
+I'm Adaobi Rachel Oyeoka (Ada Rachel)— a Junior Software Developer. I was born in Michigan, USA and I am currently based in Lagos, Nigeria.
+
+<br><br>
+
+In April 2021, I enrolled in a beginner programming course at a local technical college. This was how I discovered the world of code for the first time, and fell in love with it forever.
+
+<br><br>
+
+Since then, I have left a job as a hair stylist, gotten certified in HTML, CSS, JavaScript, and ReactJS, and built multiple websites and web applications for my personal use, for family, friends, and even for paying clients as a freelancer on Upwork dot com.
+
+<br><br>
+
+I'm currently enrolled in the 2022/2023 ‘Full-Stack Web Development’ program at [Microverse](microverse.org), where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
+
+<br><br>  
+
+When I'm not at the keyboard, you can find me reading a good book, listening to a podcast, cooking, or all three :)
+
+<br><br>
+
+<br>:pushpin: I am looking for collaboration and job opportunities, please reach me via email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.
+
+<br><br>
+
+:pushpin: Please visit my portfolio to find my projects: [adarachel.com](https://github.com/adarachel?tab=repositories). 
+
+<br><br>
 
 <h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">
