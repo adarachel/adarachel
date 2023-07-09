@@ -12,7 +12,7 @@ When I'm not at the keyboard, you can find me reading a good book, listening to 
 
 <br>:pushpin: I am actively seeking my next software development position. I am open to remote roles and also open to relocation. Please reach me via email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.
 <br><br>
-:pushpin: Please visit my portfolio to find my projects: [adarachel.com](https://github.com/adarachel?tab=repositories). 
+:pushpin: Please visit my portfolio to find a structured list of my projects, so you can see my skills in action: [adarachel.com](https://github.com/adarachel?tab=repositories). 
 
 <br><br>
 <h3 align="center">CONNECT WITH ME:</h3>
