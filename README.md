@@ -1,33 +1,12 @@
-<h1 align="center">  
-  <img src="./assets/Hi.gif" width="40px" /><img src="./assets/Hi.gif" width="40px" /><img src="./assets/Hi.gif" width="40px" /><br>
-  𝑯𝒆𝒍𝒍𝒐, 𝒇𝒆𝒍𝒍𝒐𝒘 &lt;𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿𝘀/&gt;!
-  <br>
-<h1 align="center">AHOY, FELLOW SAILORS ON THE TECH HIGH SEAS</h1>
-
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Very+Nice+To+Meet+You+...&center=true"></a>
-</p>
-
-<h3> I'm Rachel - a Full-Stack Web application Developer with a knack for turning complex ideas into beautiful, functional applications.
+<h3> Hi! I'm Adaobi Rachel Oyeoka (Ada Rachel) - a Junior Software Developer. I was born in Michigan, USA and I am currently based in Lagos, Nigeria. I build user-friendly, accessible web applications with a focus on simplicity and functionality. My goal is to always provide a smooth experience for users, and leave a positive impact.
 <br><br>
-I'm currently enrolled in the Web Development 2022/2023 program at Microverse.org, where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
+I'm currently enrolled in the 2022/2023 Software/Web Development program at Microverse.org, where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
 <br><br>  
 But when I'm not coding, you can find me exploring the great outdoors, reading a good book, or catching up on the latest sci-fi flick.
 <br><br>
 My ultimate goal? To build applications that not only meet but exceed client expectations! Let's connect and create something special. I'm always up for a new challenge and eager to collaborate with like-minded developers who share my passion for innovation and excellence.</h3>
 
-<p align="center"><a href="./assets/woman.gif">
-  <img src="./assets/woman.gif"  height="450" width="700"/>
-</a></p>
-
-:pushpin: FULL NAME: **Adaobi Rachel Oyeoka**. <br>
-<br>:pushpin: PRONOUNS: **She**/ **Her** / **Hers**. <br>
-<br>:pushpin: RELEVANT CREDENTIALS:
-- **Advanced Diploma** in Software Engineering in 2020. Obtained from the [IPMC College of Technology,](https://www.ipmctraining.com/) Accra, Ghana.
-- Enrolled in the **Full-Stack Web Development Program** At [MICROVERSE](https://www.microverse.org/). <br>
-
-<br>:pushpin: I am looking for collaboration and job opportunities, please send me an email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.<br>
+<br>:pushpin: I am looking for collaboration and job opportunities, please reach me via email at <a href="mailto:adarachelofficial@gmail.com">adarachelofficial@gmail.com</a>.<br>
 <br>:pushpin: Find my projects and contributions [HERE](https://github.com/adarachel?tab=repositories). <br>
 <br>:pushpin: HOBBIES: Reading and writing book reviews, learning new things & meeting new people.
 
