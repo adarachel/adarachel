@@ -6,7 +6,7 @@ In April 2021, I enrolled in a beginner programming course at a local technical 
 <br><br>
 Since then, I have left a job as a hair stylist, gotten certified in HTML, CSS, JavaScript, and ReactJS, and built multiple websites and web applications for my personal use, for family, friends, and even for paying clients as a freelancer on Upwork dot com.
 <br><br>
-I'm currently enrolled in the 2022/2023 ‘Full-Stack Web Development’ program at [Microverse](microverse.org), where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
+I'm currently enrolled in the 2022/2023 ‘Full-Stack Web Development’ program at [Microverse](https://www.microverse.org/), where I'm sharpening my skills, collaborating with other passionate developers, and working on exciting projects. 
 <br><br>  
 When I'm not at the keyboard, you can find me reading a good book, listening to a podcast, cooking, or all three :)
 <br><br>
